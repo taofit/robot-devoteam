@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore built ts files
+dist/**/*
+
+# Dependency directories
+pids
+logs
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env*
+
+# IDEs and editors
+.idea/
